@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "勇气",
+      "singer": [
+        "梁静茹"
+      ],
+      "time":"2020-06-20",
+      "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001DEgPu1004bl_1.jpg?max_age=2592000"
+    },
+    {
+      "id": 2,
+      "name": "年少有为",
+      "singer": [
+        "李荣浩"
+      ],
+      "time":"2020-06-21",
+      "img": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004QnEHc3zjC7J_1.jpg?max_age=2592000"
+    }
+]
